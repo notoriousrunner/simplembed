@@ -1,0 +1,7 @@
+{
+"model": "ai/smollm2",
+"messages": [
+{"role": "system", "content": "You are a helpful assistant.Answer the question based onlyon the following context: Frogs swim in the pond, Fish swim in the sea, Duck swim in lake"},
+{"role": "user", "content": "Which animals swim?"}
+]
+}

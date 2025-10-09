@@ -1,0 +1,5 @@
+{
+"input": "Lions run in the savannah",
+"model": "ai/nomic-embed-text-v1.5",
+"encoding_format": "float"
+}

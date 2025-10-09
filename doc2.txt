@@ -1,0 +1,35 @@
+Tax Year: 2024
+Filing status: Single
+Name: Arjun Malhotra
+Address: 125 Van Ness Ave, San Francisco, CA 94102
+Social Security Number (Fictional): 555-01-1980
+Date filed: April 15, 2025
+
+Form — Summary (filled, fictional)
+A — Income
+
+W-2 wages, salaries, tips: $210,000.00
+Form — Summary (filled, fictional)
+A — Income
+
+W-2 wages, salaries, tips: $210,000.00
+
+Taxable interest: $1,250.00
+
+Ordinary dividends: $3,400.00
+
+Capital gain (long-term): $12,000.00
+
+Business / freelance income (Schedule C net): $8,750.00
+
+Calculation — Total income (line-by-line additions):
+
+Step 1: $210,000.00 + $1,250.00 = $211,250.00
+
+Step 2: $211,250.00 + $3,400.00 = $214,650.00
+
+Step 3: $214,650.00 + $12,000.00 = $226,650.00
+
+Step 4: $226,650.00 + $8,750.00 = $235,400.00
+
+Total income: $235,400.00
